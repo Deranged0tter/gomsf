@@ -3,8 +3,8 @@ package gomsf
 import (
 	"fmt"
 
+	"github.com/deranged0tter/gomsf/rpc"
 	"github.com/fatih/structs"
-	"github.com/hupe1980/gomsf/rpc"
 )
 
 type ModuleType string

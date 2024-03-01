@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/hupe1980/gomsf/rpc"
+	"github.com/deranged0tter/gomsf/rpc"
 )
 
 type Client struct {

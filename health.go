@@ -1,6 +1,6 @@
 package gomsf
 
-import "github.com/hupe1980/gomsf/rpc"
+import "github.com/deranged0tter/gomsf/rpc"
 
 type HealthManager struct {
 	rpc *rpc.RPC

@@ -3,7 +3,7 @@ package gomsf
 import (
 	"errors"
 
-	"github.com/hupe1980/gomsf/rpc"
+	"github.com/deranged0tter/gomsf/rpc"
 )
 
 type CoreManager struct {

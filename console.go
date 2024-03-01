@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/hupe1980/gomsf/rpc"
+	"github.com/deranged0tter/gomsf/rpc"
 )
 
 type Console struct {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/hupe1980/gomsf/rpc"
+	"github.com/deranged0tter/gomsf/rpc"
 )
 
 type session struct {
@@ -56,4 +56,5 @@ func (ms *MeterpreterSession) Write(command string) error {
 }
 
 type SessionManager struct {
+	rpc *rpc.RPC
 }
