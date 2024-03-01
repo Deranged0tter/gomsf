@@ -1,6 +1,6 @@
-module github.com/hupe1980/gomsf
+module github.com/deranged0tter/gomsf
 
-go 1.17
+go 1.21.6
 
 require github.com/vmihailenco/msgpack/v5 v5.3.5
 
