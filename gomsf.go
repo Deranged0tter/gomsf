@@ -22,6 +22,7 @@ type Client struct {
 	Plugins    *PluginManager
 	Jobs       *JobManager
 	Module     *ModuleManager
+	Sessions   *SessionManager
 }
 
 type ClientOptions struct {
